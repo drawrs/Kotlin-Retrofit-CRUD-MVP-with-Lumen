@@ -11,5 +11,7 @@ Source code API lumen nya ada di sini <a href="https://github.com/drawrs/Lumen-f
 <a href="https://ibb.co/jA4J6k"><img src="https://preview.ibb.co/itvfK5/photo_2017_08_27_00_32_13.jpg" alt="photo_2017_08_27_00_32_13" border="0"></a>
 <a href="https://ibb.co/g2o0K5"><img src="https://preview.ibb.co/mfafK5/photo_2017_08_27_00_32_13_2.jpg" alt="photo_2017_08_27_00_32_13_2" border="0"></a>
 
-
-
+<h1>Contact Me :)</h1>
+Perlu bantuan atau mau diskusi ? bisa hubungi saya disalah satu kontak berikut:<br/>
+Email : rizal.drawrs@gmail.com<br/>
+FB: http://fb.me/rizal.ofdraw<br/>
